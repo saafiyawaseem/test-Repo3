@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:rgb(255, 0, 242);
+    height: 80px;
+}
+.heading{
+    margin: 0;
+    font-size:2rem ;
+    color: black;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+}
+.list li{
+    margin-left: 20px;
+}
+.link{
+    color: azure;
+    font-weight: bold;
+    text-decoration: none;
+    transition:color 0.3s ease;
+}
+.link:hover{
+    color:black;
+}

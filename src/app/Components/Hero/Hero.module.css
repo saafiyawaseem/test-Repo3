@@ -1,0 +1,20 @@
+.div{
+    background-image: url('https://i.pinimg.com/originals/40/ea/51/40ea51f26acb7df880c5de5abd3395b5.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 120px;
+    text-align: center;
+    color: palevioletred;
+}
+.fatima{
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.javeriya{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+    color:rgb(255, 243, 80);
+}
